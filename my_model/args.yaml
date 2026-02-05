@@ -1,7 +1,7 @@
 task: detect
 mode: train
 model: yolov8m.pt
-data: /home/kha/visual-code/NhanDien/glass,-mask,-hat-1/data.yaml
+data: /home/kha/visual-code/NhanDien/NhanDien-1/data.yaml
 epochs: 100
 time: null
 patience: 100

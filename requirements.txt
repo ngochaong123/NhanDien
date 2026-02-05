@@ -1,22 +1,27 @@
-# Core API
+# ================= CORE API =================
 fastapi
 uvicorn[standard]
 pydantic
 
-# Computer Vision
+# ================= COMPUTER VISION =================
 opencv-python
 numpy
 Pillow
 imageio
 
-# AI / Face Recognition
+# ================= AI / FACE RECOGNITION =================
 insightface
-pygame
 onnxruntime-gpu
+pygame
 
+# ================= YOLO =================
 ultralytics
+
 roboflow
 
-gtts pydub
+# ================= AUDIO =================
+gTTS
+pydub
+
 
 # pip install -r requirements.txt
